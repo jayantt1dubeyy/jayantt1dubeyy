@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jayant Dubey 👋</h1>
 
 <p align="center">
-  Engineering student @ <b>IMS Engineering College</b>, India<br>
+  B.Tech CSE @ <b>IMS Engineering College</b>, India · BS Computer Science @ <b>University of the People</b><br>
   Working on <b>multi-agent systems</b>, <b>Bayesian inference</b>, and machine learning research
 </p>
 
@@ -16,6 +16,13 @@
 
 ---
 
+### 🎓 Education
+
+- **BS in Computer Science** — University of the People (enrolled Oct 2026; WSCUC-accredited, fully online)
+- **B.Tech in Computer Science & Engineering** — IMS Engineering College (AKTU), 2026–2030
+
+---
+
 ### 🔬 Featured work
 
 **[Provenance-Aware Belief Aggregation in Multi-Agent Communication Under Convention Heterogeneity](https://github.com/jayantt1dubeyy/PROVENANCE-AWARE-BELIEF-AGGREGATION)**
@@ -25,7 +32,7 @@ When agents report through different *communication conventions* — mappings fr
 > *Reliability is not convention. Weighting evidence is not decoding evidence.*
 
 - 📐 Three theorems: nonnegative-weight insufficiency, scalar insufficiency under context-dependence, posterior consistency
-- 🧪 Eight experiments (A–H), ten seeds, 95% confidence intervals, full sensitivity analyses
+- 🧪 Ten experiments, ten seeds, 95% confidence intervals, full sensitivity analyses
 - 🛡️ Robustness probes: correlated source errors leave the ranking intact (Exp H), and a stronger context-conditioned logistic baseline still trails the Bayesian aggregator
 - 🔁 Fully reproducible: every table and figure regenerates from the checked-in code and data
 
