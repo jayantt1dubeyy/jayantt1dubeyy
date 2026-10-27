@@ -20,7 +20,7 @@
 
 ### 🎓 Education
 
-- **BS in Computer Science** — University of the People (enrolled Oct 2026; WSCUC-accredited, fully online; first term starts 12 Nov 2026)
+- **BS in Computer Science** — University of the People (enrolled Oct 2026; WSCUC-accredited, fully online)
 - **B.Tech in Computer Science & Engineering** — IMS Engineering College (AKTU), 2026–2030
 
 ---
