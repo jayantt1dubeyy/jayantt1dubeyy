@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Jayant Dubey 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jayant%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Jayant Dubey header" width="100%"/>
 
 <p align="center">
-  B.Tech CSE @ <b>IMS Engineering College</b>, India · BS Computer Science @ <b>University of the People</b><br>
-  Working on <b>multi-agent systems</b>, <b>Bayesian inference</b>, small language models, hardware built from zero, and my own programming language
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I%27m+Jayant+Dubey;I+build+programming+languages+from+scratch;I+build+CPUs+from+zero;I+build+operating+systems+from+scratch" alt="Typing intro" />
+</p>
+
+<p align="center">
+  B.Tech CSE @ <b>IMS Engineering College</b>, India · BS Computer Science @ <b>University of the People</b><br/>
+  Working on <b>multi-agent systems</b>, <b>Bayesian inference</b>, small language models, hardware built from zero, and my own programming language<br/>
+  Right now: giving my from-scratch OS a macOS-style desktop, written entirely in my own language.
 </p>
 
 <p align="center">
@@ -15,6 +20,43 @@
   <img src="https://img.shields.io/badge/Verilog-6E4C9E?style=flat-square" alt="Verilog">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
 </p>
+
+---
+
+### 🧊 My contributions, in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</p>
+
+> Generated every day from my real GitHub contributions by a GitHub Action in this repo. It appears after the action's first run.
+
+---
+
+### 📊 Real numbers, live from GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themythofsisyphusjayant&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themythofsisyphusjayant&layout=compact&hide_border=true" alt="Top languages" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themythofsisyphusjayant&theme=dark" alt="GitHub streak" height="160">
+</p>
+
+---
+
+### 🗂️ Projects at a glance
+
+| Project | What it is |
+|---|---|
+| [The Jal Pari Language](https://github.com/themythofsisyphusjayant/RED-MOON-) | A safe, simple, natively fast language built from scratch — v1.2.0, native/WASM/big32 backends, freestanding mode |
+| [Black Moon OS](https://github.com/themythofsisyphusjayant/BLACK-MOON-OS-) | Arch-based Linux distro with a macOS-style look, plus JalOS, a teaching OS in Jal Pari — bootable ISO built Oct 2026 |
+| [big32](https://github.com/themythofsisyphusjayant/BIG-32) | A 32-bit RISC-V CPU built from zero in Verilog, booting a Linux kernel into early driver init |
+| [OpenMythos](https://github.com/themythofsisyphusjayant/onion-ai) | A miniature recurrent language model, built from scratch |
+| [Nyx](https://github.com/themythofsisyphusjayant/nyx-crystal-ai) | A decision-intelligence simulator with a live demo |
+| [Provenance-Aware Belief Aggregation](https://github.com/themythofsisyphusjayant/PROVENANCE-AWARE-BELIEF-AGGREGATION) | A 17-page research manuscript on multi-agent communication |
+| [ASIC Puzzle 2026](https://github.com/themythofsisyphusjayant/JANE-) | A chip reverse-engineered from its GDS layout alone |
 
 ---
 
@@ -90,15 +132,6 @@ Plain-language explainers, one analogy per project, with verified vs reported vs
 `Python` · `PyTorch` · `Verilog` · `NumPy` · `LaTeX` · `Git`
 
 **Interests:** multi-agent systems · Bayesian inference · trust & reputation · small language models · collective decision-making · hardware
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themythofsisyphusjayant&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themythofsisyphusjayant&layout=compact&hide_border=true" alt="Top languages" height="160">
-</p>
 
 ---
 
