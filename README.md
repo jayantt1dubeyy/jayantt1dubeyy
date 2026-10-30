@@ -57,6 +57,8 @@
 | [Nyx](https://github.com/themythofsisyphusjayant/nyx-crystal-ai) | A decision-intelligence simulator with a live demo |
 | [Provenance-Aware Belief Aggregation](https://github.com/themythofsisyphusjayant/PROVENANCE-AWARE-BELIEF-AGGREGATION) | A 17-page research manuscript on multi-agent communication |
 | [ASIC Puzzle 2026](https://github.com/themythofsisyphusjayant/JANE-) | A chip reverse-engineered from its GDS layout alone |
+| [NYX Phoenix Migration](https://github.com/themythofsisyphusjayant/harshswarm-) | Enterprise multi-agent simulation platform — NYX migrated from Streamlit to Next.js + FastAPI, same deterministic kernel, zero logic loss |
+| [Recurrent Small LMs](https://github.com/themythofsisyphusjayant/RECURRENT-SMALL-LMS) | NeurIPS-style technical report (22 pages) on recurrent small language models, loop-extrapolation evidence stated honestly |
 
 ---
 
